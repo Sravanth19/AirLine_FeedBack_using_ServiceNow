@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Airline Feedback" max_length="40" name="x_300454_air_feed_airline_feedback" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element label="Food Services" sequence="0" value="Food Services"/>
+                <element label="Punctuality" sequence="1" value="Punctuality"/>
+                <element label="Cabin Crew" sequence="2" value="Cabin Crew"/>
+                <element label="Pilot" sequence="3" value="Pilot"/>
+                <element label="Maintenance" sequence="4" value="Maintenance"/>
+            </choice>
+        </element>
+        <element label="Flight" max_length="32" name="flights" reference="x_300454_air_feed_flights" type="reference"/>
+    </element>
+</database>

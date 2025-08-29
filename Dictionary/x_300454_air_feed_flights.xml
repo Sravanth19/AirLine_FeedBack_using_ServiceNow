@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Flights" max_length="40" name="x_300454_air_feed_flights" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Airline" max_length="40" name="airline" type="string"/>
+        <element display="true" label="Flight Number" max_length="40" name="flight_number" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Domestic" sequence="0" value="Domestic"/>
+                <element label="International" sequence="1" value="International"/>
+            </choice>
+        </element>
+    </element>
+</database>

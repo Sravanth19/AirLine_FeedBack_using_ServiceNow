@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Flight" max_length="40" name="x_300454_air_feed_flights_staging" type="collection">
+        <element attributes="import_attribute_name=Airline,edge_encryption_enabled=true" label="Airline" max_length="40" name="u_airline" type="string"/>
+        <element attributes="import_attribute_name=Flight Number,edge_encryption_enabled=true" label="Flight Number" max_length="40" name="u_flight_number" type="string"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>
