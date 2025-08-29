@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_300454_air_feed_flights" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domestic</label>
+            <language>en</language>
+            <name>x_300454_air_feed_flights</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:48:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9335fc2f4f1ea3008f3133718110c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:48:45</sys_updated_on>
+            <value>Domestic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>International</label>
+            <language>en</language>
+            <name>x_300454_air_feed_flights</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:48:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1735fc2f4f1ea3008f3133718110c76c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:48:46</sys_updated_on>
+            <value>International</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_300454_air_feed_flights</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:48:46</sys_created_on>
+            <sys_id>df35fc2f4f1ea3008f3133718110c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Airlines Feedback" source="x_300454_air_feed">3244ec634f1aa3008f3133718110c70a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Airlines Feedback">3244ec634f1aa3008f3133718110c70a</sys_scope>
+            <sys_update_name>sys_choice_x_300454_air_feed_flights_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:48:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

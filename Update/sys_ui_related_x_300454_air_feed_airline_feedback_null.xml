@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_300454_air_feed_airline_feedback" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Airline Feedback - Default view" name="x_300454_air_feed_airline_feedback" related_list="NULL" sys_domain="global" view="Default view">5bdc23c84feee3008f3133718110c78e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 18:28:00</sys_created_on>
+            <sys_id>d3dc23c84feee3008f3133718110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 18:28:00</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Airline Feedback - Default view" name="x_300454_air_feed_airline_feedback" related_list="NULL" sys_domain="global" view="Default view">5bdc23c84feee3008f3133718110c78e</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>rm_enhancement.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 18:28:00</sys_created_on>
+            <sys_id>dbdc23c84feee3008f3133718110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 18:28:00</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Airline Feedback - Default view</calculated_name>
+            <filter/>
+            <name>x_300454_air_feed_airline_feedback</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 18:28:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bdc23c84feee3008f3133718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Airline Feedback - Default view</sys_name>
+            <sys_package display_value="Airlines Feedback" source="x_300454_air_feed">3244ec634f1aa3008f3133718110c70a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Airlines Feedback">3244ec634f1aa3008f3133718110c70a</sys_scope>
+            <sys_update_name>sys_ui_related_x_300454_air_feed_airline_feedback_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 18:28:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

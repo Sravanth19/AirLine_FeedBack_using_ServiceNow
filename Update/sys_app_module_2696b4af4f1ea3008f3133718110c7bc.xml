@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Airlines Feedback">8b442c674f1ea3008f3133718110c711</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Airline Feedbacks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_300454_air_feed_airline_feedback</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_300454_air_feed.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-16 15:54:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2696b4af4f1ea3008f3133718110c7bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Airline Feedbacks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Airlines Feedback" source="x_300454_air_feed">3244ec634f1aa3008f3133718110c70a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airlines Feedback">3244ec634f1aa3008f3133718110c70a</sys_scope>
+        <sys_update_name>sys_app_module_2696b4af4f1ea3008f3133718110c7bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-16 15:54:43</sys_updated_on>
+        <timeline_page/>
+        <title>Airline Feedbacks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

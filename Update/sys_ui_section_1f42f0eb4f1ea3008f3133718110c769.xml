@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="1f42f0eb4f1ea3008f3133718110c769" sys_domain="global" table="x_300454_air_feed_flights" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flight_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:46:44</sys_created_on>
+            <sys_id>e1c4b82f4f1ea3008f3133718110c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_300454_air_feed_flights" sys_domain="global" view="Default view">1f42f0eb4f1ea3008f3133718110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:46:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>airline</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:46:45</sys_created_on>
+            <sys_id>a5c4386f4f1ea3008f3133718110c7db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_300454_air_feed_flights" sys_domain="global" view="Default view">1f42f0eb4f1ea3008f3133718110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:46:45</sys_created_on>
+            <sys_id>7dc4386f4f1ea3008f3133718110c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_300454_air_feed_flights" sys_domain="global" view="Default view">1f42f0eb4f1ea3008f3133718110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:46:45</sys_created_on>
+            <sys_id>b5c4386f4f1ea3008f3133718110c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_300454_air_feed_flights" sys_domain="global" view="Default view">1f42f0eb4f1ea3008f3133718110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_300454_air_feed_flights</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 15:35:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f42f0eb4f1ea3008f3133718110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_300454_air_feed_flights</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Airlines Feedback" source="x_300454_air_feed">3244ec634f1aa3008f3133718110c70a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Airlines Feedback">3244ec634f1aa3008f3133718110c70a</sys_scope>
+            <sys_update_name>sys_ui_section_1f42f0eb4f1ea3008f3133718110c769</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 15:35:56</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
